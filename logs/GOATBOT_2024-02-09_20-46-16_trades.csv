@@ -1,0 +1,5 @@
+time,strategy,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2020-02-24 09:30:00-05:00,GOATBOT,ES,buy,market,new,1,gtc,0.0,1,stock,,,
+2020-02-24 09:30:00-05:00,GOATBOT,ES,buy,market,fill,1,gtc,0.0,1,stock,95.87000274658203,522.0,0.0
+2020-03-23 08:30:00-04:00,GOATBOT,ES,sell,limit,canceled,1,day,0.0,1,stock,,,
+2020-03-23 08:30:00-04:00,GOATBOT,ES,sell,stop,fill,1,day,0.0,1,stock,64.69999694824219,522.0,0.0
